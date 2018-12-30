@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JCornflower/ProtractorTest/issues"
   },
-  "homepage": "https://github.com/JCornflower/ProtractorTest#readme"
+  "homepage": "https://github.com/JCornflower/ProtractorTest#readme",
+  "devDependencies": {
+    "jasmine-reporters": "^2.3.2"
+  }
 }
