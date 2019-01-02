@@ -6,7 +6,7 @@
     specs: ['spec.js'],
    framework: 'jasmine2' ,
     onPrepare: function() {
-        var jasmineReporters = require('C:/Users/Yuliia/Documents/GitHub/ProtractorTest/node_modules/jasmine-reporters');
+        var jasmineReporters = require('C:/Users/user/Documents/GitHub/ProtractorTest/node_modules/jasmine-reporters');
         jasmine.getEnv().addReporter(new jasmineReporters.JUnitXmlReporter(null, true, true)
         );
    }
