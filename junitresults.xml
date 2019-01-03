@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="1" tests="1" time="34.683">
- <testsuite name="Rydoo title" timestamp="2019-01-02T12:47:05" hostname="localhost" time="34.683" errors="0" tests="1" skipped="0" disabled="0" failures="1">
-  <testcase classname="Rydoo title" name="should have a title" time="34.682">
-   <failure type="exception" message="Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL."><![CDATA[Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.
-    at Timeout._onTimeout (C:\Users\user\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4281:23)
-    at ontimeout (timers.js:436:11)
-    at tryOnTimeout (timers.js:300:5)
-    at listOnTimeout (timers.js:263:5)
-    at Timer.processTimers (timers.js:223:10)]]>
-   </failure>
-  </testcase>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="11.584">
+ <testsuite name="Rydoo title" timestamp="2019-01-03T13:29:30" hostname="localhost" time="11.584" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Rydoo title" name="should have a title" time="11.584" />
  </testsuite>
 </testsuites>
